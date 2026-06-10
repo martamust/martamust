@@ -1,22 +1,44 @@
-# Hola, soy Marta 👋
+# Hi, I'm Marta 👋
 
-He terminado el grado de desarrollo de aplicaciones web y estoy construyendo mi portfolio con proyectos de backend y frontend.
+Web Application Development graduate based in Málaga, Spain.
 
-## 🚀 Proyectos principales
+I have a background in web development, technical support and data analytics, and I enjoy building digital solutions that combine technology with a great user experience.
 
-- [reto4](https://github.com/martamust/reto4)  
-  Gestor de videojuegos con login, CRUD por usuario, filtros por plataforma/género y base de datos SQLite usando Node.js, Express y EJS.
+Currently, I am expanding my portfolio through practical projects using JavaScript, TypeScript, Node.js, Express, React, SQL and related web technologies.
 
-- [reto05](https://github.com/martamust/reto05)  
-  API y SPA para gestionar parkings: registro y login con JWT y contraseñas cifradas, endpoints protegidos y front en HTML/JS que consume la API.
+## Main Projects
 
-- [reto3](https://github.com/martamust/reto3)  
-  Aplicación web para gestionar una colección de películas por usuario, con autenticación mediante sesión, vistas en EJS y rutas protegidas.
+### reto4
+Video game management platform with user authentication, CRUD operations, filtering by platform and genre, and SQLite database integration using Node.js, Express and EJS.
 
-- [EjercicioEvaluable](https://github.com/martamust/EjercicioEvaluable)  
-  Mapa interactivo de monumentos de Málaga usando Leaflet, Bootstrap y JavaScript, con sistema de login y listado de puntos de interés.
+### reto5
+Parking management API with user registration and authentication using JWT, encrypted passwords, protected endpoints and an HTML/JavaScript frontend consuming the API.
 
+### reto3
+Movie collection web application with user authentication, protected routes, EJS views and session-based access control.
 
-## 📚 Ejercicios y pruebas
+### EjercicioEvaluable
+Interactive map of Málaga landmarks built with Leaflet, Bootstrap and JavaScript, including authentication and points of interest management.
 
-El resto de repositorios son trabajos de clase y pruebas donde practico PHP, Node, Express, React y maquetación web.
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- PHP
+- Java
+- Python
+- SQL & MySQL
+- Node.js
+- Express
+- React
+- Git
+
+## Currently
+
+- Building new projects and improving my portfolio.
+- Strengthening my frontend and backend development skills.
+- Open to junior opportunities in web development and technology-related roles.
+  
+🌍 Open to remote work and relocation
