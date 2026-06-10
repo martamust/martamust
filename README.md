@@ -17,7 +17,6 @@ He terminado el grado de desarrollo de aplicaciones web y estoy construyendo mi 
   Mapa interactivo de monumentos de Málaga usando Leaflet, Bootstrap y JavaScript, con sistema de login y listado de puntos de interés.
 
 
-
 ## 📚 Ejercicios y pruebas
 
 El resto de repositorios son trabajos de clase y pruebas donde practico PHP, Node, Express, React y maquetación web.
